@@ -532,7 +532,7 @@ header main {
   .homePgVideo video {
     height: 45%;
     top: 20%;
-    z-index: 5;
+    z-index: 1;
   }
   .homePgVideo {
     background-color: black;
