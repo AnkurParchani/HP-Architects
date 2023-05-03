@@ -91,13 +91,6 @@ header main {
   left: 160px;
   top: 10px;
 }
-.dropdown_arrow {
-  font-size: 2rem;
-  color: white;
-  position: absolute;
-  left: 75rem;
-  top: 2rem;
-}
 .navbar-collapse {
   margin-bottom: 20px;
 }
