@@ -11,6 +11,5 @@ introVideo.addEventListener("ended", function () {
 
 if (window.innerWidth < 600) {
   header.classList.remove("hidden");
-  dropDownArrow.style.display = "none";
   onScreenLogo.style.display = "none";
 }
